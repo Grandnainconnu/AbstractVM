@@ -1,6 +1,9 @@
 # AbstractVM
-School project
 
-# Compilation
+Mark: 17.69/20
 
-$> make && make clean
+Pitch mark: 5/5
+
+# Usage
+
+$> make fclean && make && ./AbstractVM
